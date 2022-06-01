@@ -28,3 +28,5 @@ A%*% B
 t(A)
 #inverse a matrix
 solve(A)
+
+###let us make more changes 
